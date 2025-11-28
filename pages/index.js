@@ -10,6 +10,7 @@ export default function Home() {
     <>
       <Head>
         <title>Inicio | TechSolutions Arequipa</title>
+        <meta name="google-site-verification" content="Evo7kC61tptbpvBeOi-zIndDYm2Q2QMi8umXD_9h6vQ" />
         <meta name="description" content="Soluciones tecnológicas avanzadas en Arequipa. Desarrollo web, SEO y optimización con Next.js." />
         {/* Open Graph */}
         <meta property="og:title" content="TechSolutions - Expertos en Web" />
